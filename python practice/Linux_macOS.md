@@ -1,0 +1,23 @@
+### Linux/macOS
+·pwd：打印工作目录。
+·hostname：计算机在网络中的名称。
+·mkdir：创建目录。
+·cd：更改目录。
+·ls：列出目录中的内容。
+·rmdir：删除目录。
+·pushd：推入目录。
+·popd：弹出目录。
+·cp：复制文件或目录。
+·mv：移动文件或目录。
+·less：逐页查看文件。
+·cat：打印整个文件。
+·xargs：执行参数。
+·find：寻找文件。
+·grep：在文件中查找内容。
+·man：阅读手册。
+·apropos：寻找恰当的手册页面。
+·env：查看你的环境。
+·echo：打印一些参数。
+·export：导出/设定一个新的环境变量。
+·exit：退出shell。
+·sudo：成为超级用户root，危险命令！
